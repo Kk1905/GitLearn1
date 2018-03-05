@@ -6,4 +6,4 @@ Git tracks changes of file.
 Stupid boss.
 
 Creating a new branch is quick and simple.
-kk merge.
+kk merge 小伙伴改的.
